@@ -51,4 +51,4 @@ comando_voz_usuario()
 
 
 
-# ------------------------- ESSA ARROMBADA FOI CRIADA PELO JOSUÉ FERREIRA RIBEIRO :3, TRATE BEM DELA ------------------- #
+#==> ESSA ARROMBADA FOI CRIADA PELO JOSUÉ FERREIRA RIBEIRO, TRATE BEM DELA MIAU <==#
